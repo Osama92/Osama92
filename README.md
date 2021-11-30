@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning and improving my skills on day at a time 😉
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 💬 Check out my portfolio here: https://atobiloye-adedayo.herokuapp.com/ 
 - 📫 How to reach me: 2347031167360
 - 😄 Pronouns: Guy 😁
 
